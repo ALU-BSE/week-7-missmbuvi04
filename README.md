@@ -1,6 +1,46 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xRYVR9KZ)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19866937)
-# afd-2023M-Bootstrap-Challenge
+#Reen's Studios 
 
-**Instructions:**
-In this bootstrap challenge you are tasked to replicate the web page shown in the project-demo file, using only bootstrap 5 (No JS or any other CSS Framework).
+A fully responsive front-end website for a fictional photography and videography brand, built using **Bootstrap 5** (no custom JavaScript). This single-page design demonstrates mobile-first layouts, modern components, and semantic HTML5 practices.
+
+Built as part of the advannced front end development course, this project showcases a clean, user-friendly portfolio website for creatives.
+
+---
+
+##Features
+
+- *Fixed Navbar* with smooth scrolling
+- *Hero Section* with background image overlay & call-to-action buttons
+- *Portfolio Gallery* in a responsive 3x2 grid
+- *Service Cards* using Bootstrap Icons
+- *About Section* with image + text layout
+- *Contact Form* using Bootstrap's form layout classes
+- *Dark Footer* with social media links
+- Consistent *purple branding* (custom theme)
+
+---
+
+#Technologies Used
+
+- *HTML5*
+- *Bootstrap 5.3.3*
+- *Bootstrap Icons*
+- *Responsive Design Principles*
+
+---
+
+## Screenshots
+
+
+| 📸 Original Design | 💻 Desktop View | 📱 Mobile View |
+|--------------------|----------------|----------------|
+| ![](./screenshots/home.png) | ![](./screenshots/homes.png) | ![](./screenshots/contact.png) |
+|  | ![](./screenshots/portfolio.png) | ![](./screenshots/portfolios.png) |
+
+---
+
+#How to Run
+
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/your-username/lenscraft-bootstrap.git
+   cd lenscraft-bootstrap
