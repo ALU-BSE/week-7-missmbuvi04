@@ -42,5 +42,5 @@ Built as part of the advannced front end development course, this project showca
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/lenscraft-bootstrap.git
+   git clone https://github.com/ALU-BSE/week-7-missmbuvi04.git
    cd lenscraft-bootstrap
